@@ -5,7 +5,8 @@
 
 ## 2 주차 과제 (2020. 05. 28)
 파이썬과 인공지능 기초수학
-n\열리지 않을 경우 --->> https://nbviewer.jupyter.org/github/lee-changsub/1-/blob/master/%EC%9D%B4%EC%B0%BD%EC%84%AD_2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb
+
+열리지 않을 경우 --->> https://nbviewer.jupyter.org/github/lee-changsub/1-/blob/master/%EC%9D%B4%EC%B0%BD%EC%84%AD_2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb
 
 ## 3 주차 과제 (2020. 06. 04)
 학습률 최적화, 군집 분석 구현, Cost Function구현

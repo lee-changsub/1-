@@ -3,7 +3,7 @@
 ## 1 주차 과제 (2020. 05. 21)
 인공지능 사례분석
 
-열리지 않을 경우 --->>https://nbviewer.jupyter.org/github/lee-changsub/1-/blob/master/%EC%9D%B4%EC%B0%BD%EC%84%AD_1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb
+https://github.com/lee-changsub/1-/blob/master/%EC%9D%B4%EC%B0%BD%EC%84%AD_1%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C.ipynb
 
 ## 2 주차 과제 (2020. 05. 28)
 파이썬과 인공지능 기초수학
